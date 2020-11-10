@@ -10,9 +10,9 @@ iView 是一个很棒的前端开源框架，具备良好的用户体验，深�
 
 #### 免费且开源
 
-本组件库将会发布在github上，会不定期更新版本：https://github.com/huarxia/iViewAxureLib
+本组件库将会发布在github上，会不定期更新版本：https://github.com/sweet-shop/iViewAxureLib
 
-下载: https://github.com/huarxia/iViewAxureLib/releases
+下载: https://github.com/sweet-shop/iViewAxureLib/releases
 
 元件库将永远保持免费与开源，遵循GPL-V3协议，希望能为大家做出一些贡献。`特别提醒：本官方元件库不收取任何费用，请认准官方提供下载链接。`
 
@@ -61,12 +61,12 @@ font-family:Ionicons; src:url(https://cdnjs.cloudflare.com/ajax/libs/iview/3.0.1
 
 > 如果大家确实很喜欢这个iview元件库，可以打赏支持支持，谢谢大家。如果想与我取得联系请加微信(以下二维码为AnimaUI作者所有并非第三方修改)
 
-<img width="130px" src="./images/u44.png"/>
+<img width="225px" src="./images/u44.png"/>
 <img width="225px" style="margin-left: 22px" src="./images/u45.png"/>
 
 #### 其他相关
 
 > 另外还有小程序前端UI库，欢迎查看使用
 
-<img width="215px" src="./images/u48.png"/>
+<img width="225px" src="./images/u48.png"/>
 
